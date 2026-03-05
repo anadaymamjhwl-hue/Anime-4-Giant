@@ -1,0 +1,8 @@
+{
+  "name": "Anime4Giant - عملاق الانيمي",
+  "description": "المنصة الكبرى لمشاهدة الانيمي والروايات الحصرية مع نظام اشتراكات متطور ومجتمع تفاعلي للعمالقة.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
